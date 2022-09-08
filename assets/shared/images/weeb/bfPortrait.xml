@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPortrait.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boyfriend portrait enter instance 10000" x="0" y="0" width="438" height="366" frameX="-108" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10001" x="0" y="0" width="438" height="366" frameX="-53" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10002" x="440" y="0" width="438" height="366" frameX="-30" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10003" x="440" y="0" width="438" height="366" frameX="-7" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10004" x="440" y="0" width="438" height="366" frameX="-2" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10005" x="0" y="368" width="438" height="366" frameX="0" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10006" x="440" y="0" width="438" height="366" frameX="0" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10007" x="440" y="0" width="438" height="366" frameX="0" frameY="0" frameWidth="546" frameHeight="366"/>
+	<SubTexture name="Boyfriend portrait enter instance 10008" x="0" y="368" width="438" height="366" frameX="0" frameY="0" frameWidth="546" frameHeight="366"/>
+</TextureAtlas>

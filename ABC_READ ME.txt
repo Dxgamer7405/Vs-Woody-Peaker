@@ -1,0 +1,4 @@
+This is the main folder that contains all of the source code for the game.
+
+If you would like to immediately open the game, go to the "Vs. Woody Woodpecker" folder
+and open "Kade Engine.exe".

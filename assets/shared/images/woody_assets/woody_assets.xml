@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="woody_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WDown instance 10000" x="0" y="0" width="266" height="450" frameX="-1" frameY="0" frameWidth="267" frameHeight="450"/>
+	<SubTexture name="WDown instance 10001" x="0" y="0" width="266" height="450" frameX="-1" frameY="0" frameWidth="267" frameHeight="450"/>
+	<SubTexture name="WDown instance 10002" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10003" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10004" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10005" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10006" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10007" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10008" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10009" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10010" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10011" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10012" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10013" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WDown instance 10014" x="268" y="0" width="267" height="450"/>
+	<SubTexture name="WIdle instance 10000" x="537" y="0" width="260" height="458" frameX="-1" frameY="-6" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10001" x="537" y="0" width="260" height="458" frameX="-1" frameY="-6" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10002" x="799" y="0" width="261" height="453" frameX="0" frameY="-11" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10003" x="799" y="0" width="261" height="453" frameX="0" frameY="-11" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10004" x="1062" y="0" width="258" height="459" frameX="-1" frameY="-5" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10005" x="1062" y="0" width="258" height="459" frameX="-1" frameY="-5" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10006" x="1322" y="0" width="260" height="463" frameX="-1" frameY="-1" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10007" x="1322" y="0" width="260" height="463" frameX="-1" frameY="-1" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10008" x="1584" y="0" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10009" x="1584" y="0" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10010" x="0" y="466" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10011" x="0" y="466" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10012" x="0" y="466" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10013" x="0" y="466" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WIdle instance 10014" x="0" y="466" width="260" height="464" frameX="-1" frameY="0" frameWidth="261" frameHeight="464"/>
+	<SubTexture name="WLeft instance 10000" x="262" y="466" width="244" height="459" frameX="0" frameY="0" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10001" x="262" y="466" width="244" height="459" frameX="0" frameY="0" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10002" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10003" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10004" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10005" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10006" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10007" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10008" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10009" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10010" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10011" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10012" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10013" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WLeft instance 10014" x="508" y="466" width="246" height="458" frameX="-4" frameY="-1" frameWidth="250" frameHeight="459"/>
+	<SubTexture name="WRight instance 10000" x="756" y="466" width="349" height="456" frameX="-5" frameY="-1" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10001" x="756" y="466" width="349" height="456" frameX="-5" frameY="-1" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10002" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10003" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10004" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10005" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10006" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10007" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10008" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10009" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10010" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10011" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10012" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10013" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WRight instance 10014" x="1107" y="466" width="352" height="457" frameX="0" frameY="0" frameWidth="354" frameHeight="457"/>
+	<SubTexture name="WUp instance 10000" x="1461" y="466" width="303" height="466" frameX="0" frameY="0" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10001" x="1461" y="466" width="303" height="466" frameX="0" frameY="0" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10002" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10003" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10004" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10005" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10006" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10007" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10008" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10009" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10010" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10011" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10012" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10013" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+	<SubTexture name="WUp instance 10014" x="0" y="934" width="307" height="461" frameX="0" frameY="-5" frameWidth="307" frameHeight="466"/>
+</TextureAtlas>
